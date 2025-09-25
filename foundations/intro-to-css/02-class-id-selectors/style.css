@@ -4,7 +4,7 @@
     font-family: Verdana, "DejaVu Sans", sans-serif;
 }
 
-.red-lover.big-boy {
+.big-boy {
     font-size: 24px;
 }
 
@@ -15,6 +15,5 @@
 
 #light-green {
     background-color: hsl(120, 73%, 75%);
-    font-size: 24px;
     font-weight: bold;
 }
