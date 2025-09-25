@@ -1,1 +1,20 @@
 /* Add CSS Styling */
+.red-lover {
+    background-color: rgb(245, 161, 161);
+    font-family: Verdana, "DejaVu Sans", sans-serif;
+}
+
+.red-lover.big-boy {
+    font-size: 24px;
+}
+
+#blue-text {
+    color: #0000ff;
+    font-size: 36px;
+}
+
+#light-green {
+    background-color: hsl(120, 73%, 75%);
+    font-size: 24px;
+    font-weight: bold;
+}
